@@ -1,2 +1,2 @@
 # hello_world
-just a new respiratory
+just a new repository
